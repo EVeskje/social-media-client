@@ -1,31 +1,30 @@
 # Workflow CA
 
-Welcome to the Workflow project at Noroff School of Technology and Digital Media - Front End Development!
-This project is dedicated to enhancing the quality of an existing social app by implementing superior development workflows and establishing a robust testing strategy.
+Welcome to the Workflow project at Noroff School of Technology and Digital Media - Front End Development! 🚀 This project is dedicated to enhancing the quality of an existing social app by implementing superior development workflows and establishing a robust testing strategy.
 
-## Configuration
+## 🛠️ Configuration
 
 ### Prettier
 
-Prettier is a powerful tool that automatically formats your code, ensuring consistent styling and saving valuable time on manual formatting. By enhancing code readability throughout the development process, Prettier promotes a cohesive and professional codebase.
+Prettier is your code stylist, ensuring sleek and consistent formatting effortlessly. Say goodbye to messy code and hello to readability perfection!
 
 ### ESlint
 
-ESLint serves as a guardian of coding standards, catching potential errors early and maintaining code quality. By enforcing consistent practices and identifying common pitfalls, ESLint fosters collaboration and ensures the integrity of your JavaScript code.
+ESLint stands guard, ensuring your code adheres to the highest standards. No more sneaky bugs or questionable practices slipping through!
 
 ### Husky
 
-Husky is your ally in automating pre-commit hooks, safeguarding code quality checks, and preventing commits that deviate from established standards. By seamlessly integrating with your workflow, Husky promotes adherence to best practices and maintains a high level of code quality.
+Husky is your trusty sidekick, guarding against code atrocities before they even commit! With pre-commit hooks, you'll never have to worry about straying from the path of excellence.
 
 ### Jest
 
-Implementing unit tests with Jest in this project guarantees the reliability and correctness of individual code units, including essential functions like login and logout. By facilitating early bug detection and promoting robust software development practices, Jest ensures the stability and resilience of your application.
+Jest is your test wizard, conjuring up magical unit tests to safeguard the integrity of your code. Watch bugs vanish into thin air before they even have a chance to cause mischief!
 
 ### Cypress
 
-Cypress takes center stage for end-to-end testing, validating the entire application workflow, including critical processes like login and logout. By providing a comprehensive view of your application's functionality and user experience, Cypress instills confidence in the integrity and performance of your application.
+Cypress is the hero of end-to-end testing, fearlessly navigating your application's entire journey. From login to logout, Cypress ensures your app's experience is smooth sailing all the way!
 
-## Running instructions
+## 🏃 Running Instructions
 
 ### Installing
 
@@ -56,3 +55,4 @@ Runs only Cypress tests
 ```
 npm run test-e2e
 ```
+Get ready to embark on an epic journey of code mastery and excellence! 💻✨ Feel free to explore and contribute to our project, and together, let's make magic happen! 🌟
